@@ -2,5 +2,6 @@
     "name": "wwzhenu/test",
     "require": {
 		"php":">=5.4"
-	}
+	},
+    "license": "MIT"
 }
