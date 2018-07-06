@@ -1,6 +1,7 @@
 {
     "name": "wwzhenu/test",
     "description": "wwzhenu composer package ",
+	"version":"4.1.2",
     "require": {
 		"php":">=7.0"
 	},
